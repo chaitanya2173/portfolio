@@ -1,5 +1,5 @@
-title:
+title: Hacker theme
 #logo: /assets/img/headshot_circle.png
 Description: I am a final-year B.Tech CSE - Data Science student with an interest in Data Science and am passionate about using advanced analytics to drive innovation and solve complex challenges.
 show_downloads: false
-theme: jekyll-theme-cayman
+theme: jekyll-theme-hacker
