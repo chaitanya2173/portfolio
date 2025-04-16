@@ -10,7 +10,7 @@
 - SSC – 95% 2017 - 2018
 
 # Skills
-### Technical Skills / Programming languages
+### Technical Skills / Programming Languages
 - Python
 - SQL
 - Basics of C
@@ -71,6 +71,6 @@
 ### Placement Coordinator
 - Branch Coordinator
 ### NCC
-– College Senior
+- College Senior
 ### Jeevan Kaushal
-– Branch Coordinator
+- Branch Coordinator
