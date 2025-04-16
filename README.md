@@ -1,5 +1,6 @@
+# **Gudimetla Subramanya Chaitanya**
 
-# **Education**
+### **Education**
 ### *B.Tech*
 - KKR & KSR Institute of Technology and Sciences, Guntur (2021 - 2025)
 - CSE Data Science – 73%
