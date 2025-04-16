@@ -1,5 +1,6 @@
 # **Gudimetla Subramanya Chaitanya**
-
+@import: https://www.linkedin.com/in/g-s-chaitanya
+@import: https://github.com/chaitanya2173
 # **Education**
 ### *B.Tech*
 - KKR & KSR Institute of Technology and Sciences, Guntur (2021 - 2025)
