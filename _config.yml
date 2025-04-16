@@ -4,5 +4,5 @@ description: I am a final-year B.Tech CSE - Data Science student with an interes
 show_downloads: false
 #theme: jekyll-theme-hacker
 #theme: jekyll-theme-minimal
-#theme: jekyll-theme-cayman
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-cayman
+#theme: jekyll-theme-time-machine
